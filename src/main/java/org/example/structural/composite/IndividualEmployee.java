@@ -1,4 +1,4 @@
-package org.example.structural.composity;
+package org.example.structural.composite;
 
 public class IndividualEmployee implements Employee {
     private String name;
